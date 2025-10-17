@@ -2,7 +2,7 @@ import pywhatkit as pwk
 from datetime import datetime
 import time
 
-DASHBOARD_URL = "https://github.com/kavyaGN/DataCollections/blob/main/dashboard.html"
+DASHBOARD_URL = "https://kavyagn.github.io/DataCollections/dashboard.html"
 PHONE_NUMBER = "+919019674102" 
 
 def send_whatsapp_message():
